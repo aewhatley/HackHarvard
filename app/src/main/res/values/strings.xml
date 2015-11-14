@@ -1,0 +1,38 @@
+<resources>
+    <string name="app_name">HelpHarvard</string>
+    <string name="title_activity_main">MainActivity</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_step1">Step1</string>
+    <string name="title_activity_step2">Step2</string>
+
+    <string name="breathing">Take a deep breath</string>
+    <string name="opening">What\'s your name?</string>
+    <string name="title_activity_step3">Step3</string>
+    <string name="ThankyouIntro">
+        Hey, %s. Thanks for checking in with me.
+        You did really well to reach out today.
+        First I want to make sure you\'re doing alright.
+    </string>
+    <string name="danger">Are you currently in danger?</string>
+    <string name="title_activity_step4">Step4</string>
+    <string name="encouragement_helpline">
+        Encouragement. Be encouraged.
+        You deserve the best help...
+        Call these guys:
+    </string>
+    <string name="title_activity_step5">Step5</string>
+    <string name="police">
+        Do you want police intervention right now or need medical attention?
+    </string>
+    <string name="title_activity_step6">Step6</string>
+    <string name="call911">
+        Please call 911.
+    </string>
+    <string name="title_activity_step7">Step7</string>
+    <string name="surveyStart">
+        Thanks for answering those questions. I want to check in
+        with how you\'ve been feeling.
+    </string>
+</resources>
