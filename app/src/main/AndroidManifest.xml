@@ -44,6 +44,94 @@
             android:name=".Step7"
             android:label="@string/title_activity_step7" >
         </activity>
+        <activity
+            android:name=".intro"
+            android:label="@string/title_activity_intro" >
+        </activity>
+        <activity
+            android:name=".abusivebehavior"
+            android:label="@string/title_activity_abusivebehavior" >
+        </activity>
+        <activity
+            android:name=".nonechecked"
+            android:label="@string/title_activity_nonechecked" >
+        </activity>
+        <activity
+            android:name=".yeschecked"
+            android:label="@string/title_activity_yeschecked" >
+        </activity>
+        <activity
+            android:name=".Example1"
+            android:label="@string/title_activity_example1" >
+        </activity>
+        <activity
+            android:name=".Example2"
+            android:label="@string/title_activity_example2" >
+        </activity>
+        <activity
+            android:name=".Example3"
+            android:label="@string/title_activity_example3" >
+        </activity>
+        <activity
+            android:name=".Example4"
+            android:label="@string/title_activity_example4" >
+        </activity>
+        <activity
+            android:name=".abusivebehavior2"
+            android:label="@string/title_activity_abusivebehavior2" >
+        </activity>
+        <activity
+            android:name=".nonechecked2"
+            android:label="@string/title_activity_nonechecked2" >
+        </activity>
+        <activity
+            android:name=".yeschecked2"
+            android:label="@string/title_activity_yeschecked2" >
+        </activity>
+        <activity
+            android:name=".Example5"
+            android:label="@string/title_activity_example5" >
+        </activity>
+        <activity
+            android:name=".Example6"
+            android:label="@string/title_activity_example6" >
+        </activity>
+        <activity
+            android:name=".Example7"
+            android:label="@string/title_activity_example7" >
+        </activity>
+        <activity
+            android:name=".Example8"
+            android:label="@string/title_activity_example8" >
+        </activity>
+        <activity
+            android:name=".abusivebehavior3"
+            android:label="@string/title_activity_abusivebehavior3" >
+        </activity>
+        <activity
+            android:name=".nonechecked3"
+            android:label="@string/title_activity_nonechecked3" >
+        </activity>
+        <activity
+            android:name=".yeschecked3"
+            android:label="@string/title_activity_yeschecked3" >
+        </activity>
+        <activity
+            android:name=".Example9"
+            android:label="@string/title_activity_example9" >
+        </activity>
+        <activity
+            android:name=".Example10"
+            android:label="@string/title_activity_example10" >
+        </activity>
+        <activity
+            android:name=".Example11"
+            android:label="@string/title_activity_example11" >
+        </activity>
+        <activity
+            android:name=".Final"
+            android:label="@string/title_activity_final" >
+        </activity>
     </application>
 
 </manifest>

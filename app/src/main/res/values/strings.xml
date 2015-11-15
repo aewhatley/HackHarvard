@@ -35,4 +35,26 @@
         Thanks for answering those questions. I want to check in
         with how you\'ve been feeling.
     </string>
+    <string name="title_activity_intro">intro</string>
+    <string name="title_activity_abusivebehavior">abusivebehavior</string>
+    <string name="title_activity_nonechecked">nonechecked</string>
+    <string name="title_activity_yeschecked">yeschecked</string>
+    <string name="title_activity_example1">Example1</string>
+    <string name="title_activity_example2">Example2</string>
+    <string name="title_activity_example3">Example3</string>
+    <string name="title_activity_example4">Example4</string>
+    <string name="title_activity_abusivebehavior2">abusivebehavior2</string>
+    <string name="title_activity_nonechecked2">nonechecked2</string>
+    <string name="title_activity_yeschecked2">yeschecked2</string>
+    <string name="title_activity_example5">Example5</string>
+    <string name="title_activity_example6">Example6</string>
+    <string name="title_activity_example7">Example7</string>
+    <string name="title_activity_example8">Example8</string>
+    <string name="title_activity_abusivebehavior3">abusivebehavior3</string>
+    <string name="title_activity_nonechecked3">nonechecked3</string>
+    <string name="title_activity_yeschecked3">yeschecked3</string>
+    <string name="title_activity_example9">Example9</string>
+    <string name="title_activity_example10">Example10</string>
+    <string name="title_activity_example11">Example11</string>
+    <string name="title_activity_final">Final</string>
 </resources>
